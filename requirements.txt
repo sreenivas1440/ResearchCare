@@ -1,0 +1,23 @@
+# requirements.txt
+langgraph>=0.2.0
+langchain-core
+langchain_community
+langchain_groq
+dotenv
+sentence-transformers
+langchain-unstructured[local]
+pymupdf
+chroma
+streamlit
+langchain_qdrant
+langchain_docling
+fastembed
+pytorch 
+torchvision 
+torchaudio
+#pytorch-cuda=11.8 
+
+
+
+
+

@@ -1,0 +1,7 @@
+.env
+Agents\Research_Agent\Qdrant_files/
+__pycache__/
+*.pdf
+*.pt
+*.bin
+*.zip
