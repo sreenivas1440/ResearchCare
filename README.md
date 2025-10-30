@@ -1,4 +1,4 @@
-# 🧠 ResearchCare: Multi-Agent Health & Academic Assistant
+# 🧠 ResearchCare: A Multi-Agent Health & Academic Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -39,11 +39,6 @@ Built for healthcare professionals, researchers, and students who need reliable,
 - 💬 **Production UI** — Beautiful Streamlit interface with animated chat, file uploads, and real-time status
 - 🛡️ **Safety-First** — Emergency detection, no diagnosis, fact-verified citations
 - ⚡ **Fast & Scalable** — Optimized for production deployment
-
----
-
-## 🏗️ Architecture
-
 
 ---
 
@@ -97,7 +92,7 @@ Built for healthcare professionals, researchers, and students who need reliable,
 
 4. **Launch the App**:
    ```bash
-   streamlit run streamlit_ui_app.py
+   streamlit run app.py
    ```
    Open [http://localhost:8501](http://localhost:8501) – query away! 🎉
 
@@ -124,5 +119,34 @@ ResearchCare/
 ├── README.md                   # Documentation
 └── LICENSE                     # LicenseMIT License
 ```
+
+
+---
+
+## 🙏 Acknowledgments
+
+- **Parsing**: [Docling](https://github.com/DS4SD/docling)
+- **Vector DB**: [Qdrant](https://qdrant.tech/)
+- **Framework**: [LangChain](https://langchain.com/) & [LangGraph](https://github.com/langchain-ai/langgraph)
+- **APIs**: [Google Gemini](https://ai.google.dev/) & [Perplexity](https://www.perplexity.ai/)
+- **UI**: [Streamlit](https://streamlit.io/)
+
+---
+
+## 📄 License
+
+MIT License - See LICENSE file
+
+---
+
+## 👨‍💻 Author
+
+**Sreenivas**
+- GitHub: [@sreenivas1440](https://github.com/sreenivas1440)
+
+---
+
+Built with ❤️ for AI-powered knowledge discovery. Star ⭐ if you find it useful!
+
 
 
